@@ -1,0 +1,5 @@
+#889407 - Dark green
+#205B93- Dark blue
+#ECDF22 - yellow
+#E0170B - red
+#94160F - Dark red

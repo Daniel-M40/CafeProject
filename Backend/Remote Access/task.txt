@@ -1,0 +1,3 @@
+drag and drop a file/ upload a file
+send it to the server
+server saves it in a directory / local files

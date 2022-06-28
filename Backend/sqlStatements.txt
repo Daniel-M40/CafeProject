@@ -1,0 +1,6 @@
+select ProductID, ProductQuantity from ProductQuantity where OrderID = (select OrdersID from Orders where OrderDate >= "19/12/2021" and OrderDate >= "19/01/2022");
+
+
+select OrderID, ProductID, ProductQuantity, OrderDate from ProductQuantity, Orders where OrderID = (select OrdersID from Orders where OrderDate >= "19/12/2021" and OrderDate >= "19/01/2022");
+
+(select OrdersID from Orders where OrderDate >= " + startDate + " and OrderDate >= " + endDate + ")
