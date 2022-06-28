@@ -1,0 +1,5 @@
+Red - #E81C0B
+Dark Red - #8F0D01
+Light Green - #BFDB21
+Dark Green - #7A8F07
+Blue - #3784DB
