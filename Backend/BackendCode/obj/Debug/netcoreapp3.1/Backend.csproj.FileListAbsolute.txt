@@ -1,0 +1,306 @@
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\App.config
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.exe
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.dll.config
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.Views.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.Views.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.AssemblyReference.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorAssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Backend.styles.css
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.TagHelpers.input.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.TagHelpers.output.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorCoreGenerate.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.Views.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\App.config
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.exe
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.dll.config
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.Views.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.Views.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorAssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.TagHelpers.input.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.TagHelpers.output.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorCoreGenerate.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.Views.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Consul.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CoreCompileInputs.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Consul.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\App.config
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.exe
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.dll.config
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.Views.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.Views.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Consul.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.AssemblyReference.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorAssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\scopedcss\bundle\Backend.styles.css
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.TagHelpers.input.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.TagHelpers.output.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorCoreGenerate.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.Views.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\App.config
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.exe
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.dll.config
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.deps.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.runtimeconfig.dev.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.Views.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Backend.Views.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Consul.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Core.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Platform.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\Xamarin.Forms.Xaml.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.AccessControl.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csprojAssemblyReference.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfoInputs.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.AssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CoreCompileInputs.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorAssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.TagHelpers.input.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.TagHelpers.output.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorCoreGenerate.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.RazorTargetAssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.Views.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.csproj.CopyComplete
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.Manifest.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\staticwebassets\Backend.StaticWebAssets.xml
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\USEFUL\Cafe Project\Backend\Backend\obj\Debug\netcoreapp3.1\Backend.genruntimeconfig.cache
